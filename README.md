@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Arjun Nepali</h1>
+<h1 align="center">👋 Hey, I'm Er.Arjun Nepali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=25&center=true&vCenter=true&width=550&lines=Software+Engineer;Developer+(Django+%2B+Next.js);AI+%26+ML+Enthusiast;Tech+Explorer;Always+Learning+Something+New" />
@@ -11,7 +11,7 @@
 - 🧠 AI & Machine Learning Enthusiast  
 - 🐍 Fullstack Developer (Python Django + Next.js)  
 - ☁️ Basic knowledge of AWS EC2 hosting and deployments  
-- 🇳🇵 Proud Nepali Techie  
+- 🇳🇵 Proud to be Nepali
 - ❤️ Love building useful products, learning new things, and exploring automation  
 
 ---
@@ -71,7 +71,7 @@
 ✅ **Resume Extraction (Python NLP)**  
 ✅ **MultiVendor Ecommerce Django**  
 ✅ **React + Next.js Ecommerce**  
-✅ **Company API (DRF)**  
+✅ **localchat (Next+django+websocket)**  
 ✅ **AI-based News Automation (coming soon)**  
 
 ---
