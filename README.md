@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Arjun Nepali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=25&center=true&vCenter=true&width=550&lines=Software+Engineer;Fullstack+Developer+(Django+%2B+Next.js);AI+%26+ML+Enthusiast;Tech+Explorer+from+Nepal;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=25&center=true&vCenter=true&width=550&lines=Software+Engineer;Fullstack+Developer+(Django+%2B+Next.js);AI+%26+ML+Enthusiast;Tech+Explorer;Always+Learning+Something+New" />
 </p>
 
 ---
