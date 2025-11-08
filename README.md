@@ -85,7 +85,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://arjunnpali.com.np/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web3&logoColor=white"/></a>
+  <a href="https://www.arjunnepali.com.np/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web3&logoColor=white"/></a>
   <a href="https://linkedin.com/in/arjun-nepali-32b876244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
